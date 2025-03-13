@@ -23,8 +23,8 @@ An automated bot for claiming THP tokens and rewards on the Humanity Protocol te
 1. Clone this repository:
 
 ```bash
-git clone https://codeberg.org/Galkurta/Humanity-BOT.git
-cd Humanity-BOT
+git clone https://github.com/masrursam/huma-rur.git
+cd huma-rur
 ```
 
 2. Install dependencies:
